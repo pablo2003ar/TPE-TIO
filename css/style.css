@@ -14,3 +14,9 @@ p{
   color: red;
   font-style: italic;
 }
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  width: 75%;
+}
